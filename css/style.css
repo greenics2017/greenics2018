@@ -52,7 +52,7 @@ footer.page-footer {
 
 .navbar {
     z-index: 999;
-    background-color: #33691e;
+    background-color: transparent;
 }
 
 @media only screen and (max-width: 767px) {
