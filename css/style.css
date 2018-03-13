@@ -5,7 +5,7 @@ MDBootstrap - Magic Portfolio
 html,
 body {
     height: 100%;
-    background-color:#cfd8dc;
+    background-color:;
 }
 
 
@@ -45,12 +45,14 @@ footer.page-footer {
     background-color:#1C2331; 
 }
 /* Navbar normalize */
-.intro-2 {
+ .intro-2 {
             background: url("../images/bg.jpg")no-repeat center center;
             background-size: cover;
         }
+
 .navbar {
     z-index: 999;
+    background-color: #33691e;
 }
 
 @media only screen and (max-width: 767px) {
