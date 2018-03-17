@@ -107,25 +107,25 @@ footer.page-footer {
 /* Tiled gallery */
 
 .tiled-gallery .tile-1 {
-    background-image: url(http://mdbootstrap.com/wp-content/uploads/2015/10/kfi5dark.jpg);
+    background-image: url(../images/geo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .tiled-gallery .tile-2 {
-    background-image: url(http://mdbootstrap.com/wp-content/uploads/2015/10/places899.jpg);
+    background-image: url(../images/sri.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .tiled-gallery .tile-3 {
-    background-image: url(http://mdbootstrap.com/wp-content/uploads/2015/10/moments899.jpg);
+    background-image: url(../images/andhra.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .tiled-gallery .tile-4 {
-    background-image: url(http://mdbootstrap.com/wp-content/uploads/2015/10/kids899.jpg);
+    background-image: url(../images/terzaghi.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
